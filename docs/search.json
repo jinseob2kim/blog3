@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-05-16T07:15:01+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "SKKU biohrs",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-05-16T07:16:18+00:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
